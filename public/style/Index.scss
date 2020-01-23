@@ -1,0 +1,37 @@
+$fontColor: #7992f5;
+h5{
+    color: $fontColor;
+}
+
+#page_2{
+
+h4 {
+    color: $fontColor;
+}
+th{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+}
+%message{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card1{
+    @extend %message;
+    color: #7992f5;
+}
+.card2{
+    @extend %message;
+    color: #f5b179;
+}
+.card3{
+    @extend %message;
+    color: #666e19;
+}
+.card4{
+    @extend %message;
+    color: #eb79f5;
+}
+.card5{
+    @extend %message;
+    color: #96f579;
+}

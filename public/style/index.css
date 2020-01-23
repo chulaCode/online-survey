@@ -1,0 +1,60 @@
+
+.content1{
+margin-left: 2px;
+background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.page-footer{
+    background-color: rgb(10, 10, 10);
+
+}
+.footer-copyright{
+    color: aliceblue;
+}
+.container-footer{
+    background-color: rgb(41, 40, 40)
+}
+#imgMe{
+    height: 430px;
+    width: 100%;
+}
+.sidebar_list{
+    padding-left: 0%;
+    padding-top: 20px;
+    font-size: 1.3rem;
+    list-style-type:none;
+}
+.sidebar_list li{
+    display: inline-block;
+    padding: 3px;
+    margin: 3px;
+    
+}
+.sidebar_list li a{
+    text-decoration: none;
+}
+.sidebar_list li a:hover{
+    font-weight: bolder;
+}
+#contactimg{
+    width: 100%;
+    height: 70%;
+
+    
+}
+.imglogo{
+    height: 60px;
+    width: 40px;
+    margin-top: 0px;
+}
+.carousel-item {
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+ 
